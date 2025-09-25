@@ -62,7 +62,3 @@ public:
         return rangeSum(0, n - 1, qs, qe, 0);
     }
 };
-
-
-    return 0;
-}
